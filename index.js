@@ -18,12 +18,12 @@ class BoardMember {
   
 
  doCharity(){
-   return "I like to help people.";
+   return "I very like to help people.";
   }
 
 
  releasePressStatement(){
-   return "You will see great things from Scuber.";
+   return "You will see great to things from Scuber.";
  }
 
 
